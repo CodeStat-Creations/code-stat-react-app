@@ -1,5 +1,5 @@
 {
-  "name": "jyene",
+  "name": "CodeStatReactApp",
   "version": "1.0.0",
   "description": "",
   "main": "./src/main.tsx",
@@ -10,14 +10,13 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "format": "prettier --write \"src/**/*.+(js|jsx|ts|tsx)\"",
-    "homepage": "https://CodeStat-Creations.github.io/jyene"
+    "homepage": "https://CodeStat-Creations.github.io/CodeStatReactApp"
   },
   "author": "jwcbmat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CodeStat-Creations/jyene/issues"
+    "url": "https://github.com/CodeStat-Creations/CodeStatReactApp/issues"
   },
-  "homepage": "https://github.com/CodeStat-Creations/jyene#readme",
   "devDependencies": {
     "@babel/core": "^7.21.8",
     "@babel/preset-env": "^7.21.5",
