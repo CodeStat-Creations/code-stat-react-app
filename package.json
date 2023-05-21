@@ -1,5 +1,5 @@
 {
-  "name": "CodeStatReactApp",
+  "name": "code-stat-react-app",
   "version": "1.0.0",
   "description": "",
   "main": "./src/main.tsx",
@@ -10,12 +10,12 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "format": "prettier --write \"src/**/*.+(js|jsx|ts|tsx)\"",
-    "homepage": "https://CodeStat-Creations.github.io/CodeStatReactApp"
+    "homepage": "https://CodeStat-Creations.github.io/code-stat-react-app"
   },
   "author": "jwcbmat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CodeStat-Creations/CodeStatReactApp/issues"
+    "url": "https://github.com/CodeStat-Creations/code-stat-react-app/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.21.8",
